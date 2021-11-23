@@ -1,2 +1,2 @@
 usr = 'root'
-pswd = '123456'
+pswd = 'urubu100'
