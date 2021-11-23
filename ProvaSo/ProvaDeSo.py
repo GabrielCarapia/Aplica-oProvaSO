@@ -19,12 +19,12 @@ while (True):
     cpf = input('Qual seu cpf?')
     escolhaLanche = input('Quais lanches você quer?')
 
-    x = random.randint(100,300)
+    numeroPedido = random.randint(100,300)
     umLanche = 10.90 * 1
     doisLanche = 10.90 * 2
 
     if(escolhaLanche == 'Big mac'):
-        print('Senha do pedido', x)
+        print('Senha do pedido', numeroPedido)
         print('Nome: ', nome)
         print('CPF: ', cpf)
         print('Lanche 1: Big mac -> 10,90')
