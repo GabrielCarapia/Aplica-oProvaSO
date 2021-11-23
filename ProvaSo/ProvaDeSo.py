@@ -30,7 +30,7 @@ while (True):
         print('Lanche 1: Big mac -> 10,90')
         print('Pedido finalizado: ', umLanche)
     else:
-        print('Senha do pedido', x)
+        print('Senha do pedido', numeroPedido)
         print(nome)
         print(cpf)
         print('Lanche 1: Big mac -> 10,90')
