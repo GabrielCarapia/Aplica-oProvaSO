@@ -1,6 +1,6 @@
 import time
 import random
-from connectdb import *
+from connect_db import *
 
 print('=' * 30)
 print('{:^30}'.format('Bem vindo ao Mc´Donalds'))
